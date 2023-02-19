@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "2.9.2_Fraction_operations", "2.9.2_Fraction_operations\2.9.2_Fraction_operations.vcxproj", "{E9C20715-215E-43CE-8D11-BFD036275C85}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Debug|x64.ActiveCfg = Debug|x64
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Debug|x64.Build.0 = Debug|x64
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Debug|x86.ActiveCfg = Debug|Win32
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Debug|x86.Build.0 = Debug|Win32
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Release|x64.ActiveCfg = Release|x64
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Release|x64.Build.0 = Release|x64
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Release|x86.ActiveCfg = Release|Win32
+		{E9C20715-215E-43CE-8D11-BFD036275C85}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35D3832E-7ECD-4F9D-A531-24DE234A5481}
+	EndGlobalSection
+EndGlobal
